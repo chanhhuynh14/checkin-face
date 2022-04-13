@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd ~/Desktop/Checkin-faces
+python3 api_main.py

@@ -1,0 +1,11 @@
+cmake
+dlib
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy
+pickle5
+face_recognition
+tensorflow
